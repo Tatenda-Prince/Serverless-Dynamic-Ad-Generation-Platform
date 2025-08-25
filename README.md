@@ -1,7 +1,5 @@
 # 🚀 SkyTrip.com – Serverless Dynamic Ad Generation on AWS
 
-> **"From $73,000/month infrastructure costs to $250/month with sub-second ad rendering"**
-
 ## 📌 Overview
 
 SkyTrip.com company helps millions of travelers find accommodations, flights, car rentals, taxis, and experiences in more than 200 countries. SkyTrip.com connects with travelers by running dynamic ads across social media channels, and it needed a more efficient way to create and manage its content.
@@ -137,10 +135,9 @@ Plus, **SkyTrip.com’s teams can now experiment and update ad designs instantly
 ```bash
 # 1. Clone repository
 git clone <repository-url>
+```
 
-# 2. Deploy infrastructure
-
-### **1. Initialize Terraform**
+### **2. Initialize Terraform**
 ```bash
 terraform init
 ```
