@@ -171,18 +171,17 @@ Displays important URLs and resource names:
 - `website_url`: CloudFront distribution URL
 
 # 3. Test the system
+```bash
 curl "https://your-cloudfront-url.cloudfront.net/generate?hotel=Cape%20Grace"
 ```
 
-### **Live Demo:**
+**Live Demo:**
 - **Single Ad View:** Generate personalized hotel advertisements
 - **List View:** Browse multiple African luxury hotels
 - **Interactive Search:** Real-time destination filtering
 
----
 
-
-## 🎯 **Key Takeaways**
+ 🎯 **Key Takeaways**
 
 1. **💡 Serverless = Operational Transformation** - Not just cost savings
 2. **🌍 Global Architecture = Global Scale** - CloudFront was game-changing
@@ -190,6 +189,6 @@ curl "https://your-cloudfront-url.cloudfront.net/generate?hotel=Cape%20Grace"
 4. **⚡ Performance = Revenue** - 300ms response times drove 40% conversion increase
 5. **🚀 Business Agility = Competitive Advantage** - Deploy globally in minutes
 
----
+
 
 **This case study demonstrates how serverless architecture can transform business operations, reduce costs by 99.7%, and enable global scale without traditional infrastructure complexity.**
