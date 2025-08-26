@@ -41,7 +41,7 @@ SkyTrip.com built a serverless ad generation platform using an AWS-based approac
 
 ### 🏗️ **High-Level Architecture**
 
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Serverless-Dynamic-Ad-Generation-Platform/blob/b52333cf0903907a55f4cbc1d7a656657532529a/img/diagram.jpg)
 
 ---
 
