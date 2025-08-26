@@ -41,25 +41,7 @@ SkyTrip.com built a serverless ad generation platform using an AWS-based approac
 
 ### 🏗️ **High-Level Architecture**
 
-```
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   User Browser  │────│   CloudFront     │────│   API Gateway   │
-│                 │    │   (Global CDN)   │    │   (REST API)    │
-└─────────────────┘    └──────────────────┘    └─────────────────┘
-                                │                        │
-                                │                        │
-                                ▼                        ▼
-                       ┌──────────────────┐    ┌─────────────────┐
-                       │   Edge Caching   │    │  Lambda Function│
-                       │   (Fast Delivery)│    │  (Ad Generator) │
-                       └──────────────────┘    └─────────────────┘
-                                                         │
-                                                         ▼
-                                                ┌─────────────────┐
-                                                │   CloudWatch   │
-                                                │   (Monitoring)  │
-                                                └─────────────────┘
-```
+![image_alt]()
 
 ---
 
@@ -177,7 +159,15 @@ curl "https://your-cloudfront-url.cloudfront.net/generate?hotel=Cape%20Grace"
 
 **Live Demo:**
 - **Single Ad View:** Generate personalized hotel advertisements
+  
+![image_alt]()
+
+  
 - **List View:** Browse multiple African luxury hotels
+
+- ![image_alt]()
+
+  
 - **Interactive Search:** Real-time destination filtering
 
 
