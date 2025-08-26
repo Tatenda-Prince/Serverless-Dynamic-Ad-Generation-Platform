@@ -160,7 +160,7 @@ curl "https://your-cloudfront-url.cloudfront.net/generate?hotel=Cape%20Grace"
 **Live Demo:**
 - **Single Ad View:** Generate personalized hotel advertisements
   
-![image_alt]()
+![image_alt](https://github.com/Tatenda-Prince/Serverless-Dynamic-Ad-Generation-Platform/blob/8b3f04dfb333324306a8e63fed9cf9a4f6a748d1/img/hotel%201%20.jpg)
 
   
 - **List View:** Browse multiple African luxury hotels
