@@ -165,9 +165,9 @@ curl "https://your-cloudfront-url.cloudfront.net/generate?hotel=Cape%20Grace"
   
 - **List View:** Browse multiple African luxury hotels
 
-- ![image_alt]()
+![image_alt]()
 
-  
+
 - **Interactive Search:** Real-time destination filtering
 
 
