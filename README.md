@@ -116,7 +116,7 @@ Plus, **SkyTrip.com’s teams can now experiment and update ad designs instantly
 ### **Deployment:**
 ```bash
 # 1. Clone repository
-git clone <repository-url>
+git clone https://github.com/Tatenda-Prince/Serverless-Dynamic-Ad-Generation-Platform.githttps://github.com/Tatenda-Prince/Serverless-Dynamic-Ad-Generation-Platform.git
 ```
 
 ### **2. Initialize Terraform**
